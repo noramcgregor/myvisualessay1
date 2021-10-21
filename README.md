@@ -20,7 +20,7 @@ Hack &amp; Yack testing Juncture
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_000000021732/manifest.json?manifest=https://api.bl.uk/metadata/iiif/ark:/81055/vdc_000000021732/manifest.json">
+       manifest="http://access.bl.uk/item/viewer/ark:/81055/vdc_0000000421F8#?c=0&m=0&s=0&cv=6&xywh=-1096%2C-135%2C5127%2C2666">
 
 # Basic usage
 
